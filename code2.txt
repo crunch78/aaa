@@ -7,3 +7,22 @@
         "CA": 5
     }
 }
+{
+    "activation_code": "papamanu",
+    "welcome_title": "Bienvenue papa",
+    "welcome_subtitle": "Et bon scan ^^ Ton ip réelle:",
+    "server_limits": {
+        "US": 5,
+        "CA": 5
+    }
+}
+{
+    "activation_code": "00000000",
+    "welcome_title": "Bienvenue cricri",
+    "welcome_subtitle": "Et bon scan ^^ :",
+    "server_limits": {
+        "US": 5,
+        "CA": 5
+    }
+}
+
