@@ -1,1 +1,9 @@
-11112222
+{
+    "activation_code": "23456789",
+    "welcome_title": "Bienvenue cricri",
+    "welcome_subtitle": "Et bon scan ^^ :",
+    "server_limits": {
+        "US": 5,
+        "CA": 5
+    }
+}
