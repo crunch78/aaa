@@ -1,7 +1,7 @@
 {
     "activation_code": "23456789",
     "welcome_title": "Bienvenue cricri",
-    "welcome_subtitle": "Et bon scan ^^ :",
+    "welcome_subtitle": "Et bon scan ❤️",
     "server_limits": {
         "US": 5,
         "CA": 5
@@ -10,7 +10,7 @@
 {
     "activation_code": "papamanu",
     "welcome_title": "Bienvenue papa",
-    "welcome_subtitle": "Et bon scan ^^ Ton ip réelle:",
+    "welcome_subtitle": "Et bon scan ❤️",
     "server_limits": {
         "US": 5,
         "CA": 5
@@ -19,7 +19,7 @@
 {
     "activation_code": "27111978",
     "welcome_title": "Bienvenue cricri",
-    "welcome_subtitle": "Et bon scan ^^ :",
+    "welcome_subtitle": "Et bon scan ❤️",
     "server_limits": {
         "US": 50,
         "CA": 50
