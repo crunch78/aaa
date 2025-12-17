@@ -17,12 +17,12 @@
     }
 }
 {
-    "activation_code": "00000000",
+    "activation_code": "27111978",
     "welcome_title": "Bienvenue cricri",
     "welcome_subtitle": "Et bon scan ^^ :",
     "server_limits": {
-        "US": 5,
-        "CA": 5
+        "US": 50,
+        "CA": 50
     }
 }
 
