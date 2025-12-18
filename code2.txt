@@ -12,8 +12,8 @@
     "welcome_title": "Bienvenue Manu",
     "welcome_subtitle": "Et bon scan ❤️",
     "server_limits": {
-        "US": 2,
-        "CA": 2
+        "US": 4,
+        "CA": 4
     }
 }
 {
