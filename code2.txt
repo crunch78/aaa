@@ -1,1 +1,27 @@
-
+{
+    "activation_code": "23456789",
+    "welcome_title": "Bienvenue cricri",
+    "welcome_subtitle": "Et bon scan ❤️",
+    "server_limits": {
+        "US": 1,
+        "CA": 5
+    }
+}
+{
+    "activation_code": "papamanu",
+    "welcome_title": "Bienvenue Manu",
+    "welcome_subtitle": "Et bon scan ❤️",
+    "server_limits": {
+        "US": 0,
+        "CA": 5
+    }
+}
+{
+    "activation_code": "27111978",
+    "welcome_title": "Bienvenue cricri",
+    "welcome_subtitle": "Et bon scan ❤️",
+    "server_limits": {
+        "US": all,
+        "CA": all
+    }
+}
